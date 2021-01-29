@@ -1,2 +1,3 @@
 
-Receita de Strogonoff
+- Receita de Strogonoff
+- Pavê
